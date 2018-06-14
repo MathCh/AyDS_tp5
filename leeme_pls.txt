@@ -1,0 +1,5 @@
+Instrucciones:
+inicar los servicios de apache y mysql en el control xampp
+
+copiar y pegar la carpeta "login" en "C:\xampp\htdocs"
+copiar y pegar la carpeta "registros" en "C:\xampp\mysql\data"
